@@ -12,8 +12,8 @@ void exibirResultado();
 
 int a[TAM], b[TAM];
 
-int main(){
-    lerNumeros();
+int main(){ 
+                lerNumeros();
     exibirResultado();
     return 0;
 
